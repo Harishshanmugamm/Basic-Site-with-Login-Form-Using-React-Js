@@ -26,7 +26,6 @@ body {
   color: #f8d7da !important;
 }
 
-/* Footer Styling */
 footer .navbar {
   background-color: #343a40;
   padding-top: 10px;
@@ -38,7 +37,6 @@ footer .navbar-nav .nav-item {
   margin-right: 20px;
 }
 
-/* Table Styling */
 .table {
   background-color: #fff;
   border-radius: 10px;
@@ -63,7 +61,7 @@ footer .navbar-nav .nav-item {
   vertical-align: middle;
 }
 
-/* Form Styling */
+
 form {
   background-color: #fff;
   padding: 30px;
