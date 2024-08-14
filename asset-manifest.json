@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e033cb91.css",
-    "main.js": "/static/js/main.8d72e0ed.js",
-    "static/js/453.b970d112.chunk.js": "/static/js/453.b970d112.chunk.js",
-    "index.html": "/index.html",
-    "main.e033cb91.css.map": "/static/css/main.e033cb91.css.map",
-    "main.8d72e0ed.js.map": "/static/js/main.8d72e0ed.js.map",
-    "453.b970d112.chunk.js.map": "/static/js/453.b970d112.chunk.js.map"
+    "main.css": "/Basic-Site-with-Login-Form-Using-React-Js/static/css/main.e033cb91.css",
+    "main.js": "/Basic-Site-with-Login-Form-Using-React-Js/static/js/main.c16ef2a8.js",
+    "static/js/453.b970d112.chunk.js": "/Basic-Site-with-Login-Form-Using-React-Js/static/js/453.b970d112.chunk.js",
+    "index.html": "/Basic-Site-with-Login-Form-Using-React-Js/index.html",
+    "main.e033cb91.css.map": "/Basic-Site-with-Login-Form-Using-React-Js/static/css/main.e033cb91.css.map",
+    "main.c16ef2a8.js.map": "/Basic-Site-with-Login-Form-Using-React-Js/static/js/main.c16ef2a8.js.map",
+    "453.b970d112.chunk.js.map": "/Basic-Site-with-Login-Form-Using-React-Js/static/js/453.b970d112.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e033cb91.css",
-    "static/js/main.8d72e0ed.js"
+    "static/js/main.c16ef2a8.js"
   ]
 }
